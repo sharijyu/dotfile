@@ -20,7 +20,6 @@ alias tree='tree -C -N .'
 alias gs='git status'
 alias gl='git log'
 alias dp='docker ps'
-alias jukia='docker exec -it pjt_jukia_app_1 bash'
 alias jn='jupyter notebook'
 
 dic () {
